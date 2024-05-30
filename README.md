@@ -2,7 +2,7 @@
 
 #### 1. API Design and Implementation
 
-•⁠  As Discussed with Ahmad I have decided to use an Open API project developed and maintained by Postman themseleves
+•⁠  I have decided to use an Open API project developed and maintained by Postman themseleves
 Post man collection here -> https://www.postman.com/science-geoscientist-92587966/workspace/test/collection/18419543-a1ab8d9e-9d94-4769-9979-1c5f5030decf
 •⁠  ⁠Below are the endpoints that we will be interacting with:
 a. GET API status
